@@ -2,7 +2,7 @@
 **Nader Mahbub Khan's software archive**
 ## Download my latest softwares
 
-### 1) <a href="">Opps!!</a>
+### 1) Opps!!
 #### OPPS!! is an floating android app that converts `normal text ` to `:.` and `:.` to `normal text`.
 Works on: ```Android 5.1 -> Android 13```
 <br> Language: ```Java```
