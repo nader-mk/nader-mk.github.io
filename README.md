@@ -13,4 +13,4 @@ Works on: ```Android 5.1 -> Android 13```
 ## To-dos 😅
 - [ ] adding in app update system
 ---
-  [Download OPPS!!](https://github.com/)
+  [Download OPPS!!](https://github.com/nader-mk/nader-mk.github.io/raw/gh-pages/opps01.apk)
